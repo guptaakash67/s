@@ -714,7 +714,7 @@ export default function Home() {
 
             {/* Column 3 */}
             <div>
-              <h3 className="text-lg font-semibold mb-4">Our Services</h3>
+            <h3 className="text-lg font-semibold mb-4">Our Services</h3>
               <ul className="space-y-2">
                 <li>
                   <Link
@@ -731,14 +731,14 @@ export default function Home() {
                   >
                     TV Repair
                   </Link>
-                  <li>
-                    <Link
-                      href="/services#tv"
-                      class Name="text-gray-300 hover:text-white"
-                    >
-                      LCD & LED tv Repair
-                    </Link>
-                  </li>
+                </li>
+                <li>
+                  <Link
+                    href="/services#tv"
+                    className="text-gray-300 hover:text-white"
+                  >
+                    LCD & LED TV Repair
+                  </Link>
                 </li>
                 <li>
                   <Link
