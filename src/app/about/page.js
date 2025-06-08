@@ -344,9 +344,9 @@ export default function About() {
                 <div className="text-yellow-400 flex">{"★".repeat(5)}</div>
               </div>
               <p className="text-gray-700 italic mb-4">
-                "I've been coming to Sunil Electronics for over 15 years.
-                They've fixed everything from my old radio to my new smart TV.
-                Honest, reliable, and fairly priced."
+                &quot;I&apos;ve been coming to Sunil Electronics for over 15
+                years. They&apos;ve fixed everything from my old radio to my new
+                smart TV. Honest, reliable, and fairly priced.&quot;
               </p>
               <p className="font-semibold">- Rajesh Sharma</p>
               <p className="text-sm text-gray-600">Loyal customer since 2005</p>
